@@ -1,0 +1,14 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+h1 {
+	font-family: 'Homemade Apple', cursive;
+}
+#header {
+	margin: auto;
+	padding-top: 30px;
+	width: 600px;
+	text-align: center;
+}
