@@ -22,8 +22,10 @@ h1 {
 	margin-right: 20px;
 	font-family: 'Homemade Apple', cursive;
 }
-h3 {
+.signature {
 	text-align: right;
+	font-family: 'Homemade Apple', cursive;
+	font-size: 20px;
 }
 #photo {
 	float: left;
