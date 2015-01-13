@@ -25,3 +25,15 @@ h1 {
 h3 {
 	text-align: right;
 }
+#photo {
+	float: left;
+	padding-top: 50px;
+	margin-left: 30px;
+}
+.circle {
+	width: 400px;
+	width: 400px;
+	-moz-border-radius: 300px; 
+   -webkit-border-radius: 300px; 
+   border-radius: 300px;
+}
